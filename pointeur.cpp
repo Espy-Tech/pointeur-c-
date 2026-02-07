@@ -15,5 +15,7 @@ int main()
     }
 
     cout << "Hello World";
+
+    delete [] tab;
     return 0;
 }
